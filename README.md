@@ -3,12 +3,12 @@ Holidays are both awesome and not, both for apparently the same reason - abundan
 
 This repository records my progress through the challenge.
 
-
+   
 _Course link: https://JavaScript30.com_
 
 _Course created by [Wes Bos](https://github.com/wesbos)._
 
 If you have any suggestons, feel free to open an issue. :bowtie:
 
-
+   
 __P.S: This is neither to undermine anybody's efforts that went into making this challenge nor to suggest in any way that I am too competent for this course. This is just a fun addition to the challenge that I came up with to keep myself occupied.__
