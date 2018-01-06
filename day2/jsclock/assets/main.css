@@ -1,5 +1,9 @@
 html {
-	background: #018DED
+	background: #018DED url(https://images.unsplash.com/photo-1504966981333-1ac8809be1ca);
+	background-size: cover;
+	font-family: 'helvetica neue';
+	text-align: center;
+	font-size: 10px;
 }
 .clock {
 
